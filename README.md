@@ -1,3 +1,3 @@
 # Auburnroo
 
-Initial commit. Plans are currently being written up.
+@auburnroo's website
